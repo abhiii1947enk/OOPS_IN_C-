@@ -50,6 +50,7 @@ namespace OOPS_IN_C_
             {
                 Console.WriteLine("Bark");
                 Console.WriteLine("Barking");
+                Console.WriteLine("Dog is playing");
             }
 
             public void Live()
