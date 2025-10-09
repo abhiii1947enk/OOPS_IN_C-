@@ -17,6 +17,7 @@ namespace OOPS_IN_C_
             public void Eat()
             {
                 Console.WriteLine("Eat");
+                Console.WriteLine("Eating");
             }
         }
 
