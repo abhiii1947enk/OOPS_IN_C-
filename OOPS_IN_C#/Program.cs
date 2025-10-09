@@ -49,6 +49,7 @@ namespace OOPS_IN_C_
             public void Bark()
             {
                 Console.WriteLine("Bark");
+                Console.WriteLine("Barking");
             }
 
             public void Live()
