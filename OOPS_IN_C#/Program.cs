@@ -20,6 +20,7 @@ namespace OOPS_IN_C_
                 Console.WriteLine("Eating");
                 Console.WriteLine("Animal can eat food.");
                 Console.WriteLine("Changes by collaborator");
+                Console.WriteLine("Chnages");
             }
         }
 
